@@ -82,5 +82,5 @@ This project demonstrates expertise in **Solidity smart contracts**, **Hardhat d
 ## How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Shubhammore71/Web-3.0-Ticketmaster.git
-   cd Web-3.0-Ticketmaster
+   git clone https://github.com/Shubhammore71/TicketMaster.git
+   cd TicketMaster
