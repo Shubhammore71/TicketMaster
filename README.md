@@ -29,7 +29,7 @@ This project demonstrates expertise in **Solidity smart contracts**, **Hardhat d
 - **MetaMask Wallet Integration** — Connect wallet, sign transactions, and manage tickets seamlessly.
 - **Responsive UI** — Modern, user-friendly interface for browsing, minting, and trading.
 
-![Ticket Minting / Buying Flow](eventticket.png)
+
 
 <grok-card data-id="372e5b" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
 
@@ -42,7 +42,7 @@ This project demonstrates expertise in **Solidity smart contracts**, **Hardhat d
 <grok-card data-id="71da27" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
 
 
-![Secondary Marketplace & Reselling](eventticket.png)
+
 
 <grok-card data-id="94c0ba" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
 
@@ -55,7 +55,7 @@ This project demonstrates expertise in **Solidity smart contracts**, **Hardhat d
 <grok-card data-id="8ba774" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
 
 
-![MetaMask Wallet Connection](eventticket.png)
+
 
 <grok-card data-id="db48c4" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
 
@@ -70,7 +70,7 @@ This project demonstrates expertise in **Solidity smart contracts**, **Hardhat d
 - **Frontend**: React.js, Ethers.js
 - **Blockchain**: Ethereum (local Hardhat network, compatible with testnets/mainnet)
 
-![Hardhat Deployment Console Output](eventticket.png)
+
 
 <grok-card data-id="2472ec" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
 
